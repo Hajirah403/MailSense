@@ -23,7 +23,8 @@ Developed as a team Final Year Project at Government College University (GCU), L
 ## My Contributions
 
 - Backend implementation (FastAPI routes, database integration)
-- System evaluation and performance testing
+- Model training, labeling
+- RAG assistant 
 - Technical documentation (implementation and evaluation chapters)
 
 ## Project Structure
@@ -31,3 +32,9 @@ MailSense/
 ├── backend/ # FastAPI backend, RAG pipeline, database models
 ├── frontend/ # React frontend
 └── README.md
+
+## Screenshots
+login.jpeg
+dashboard.jpeg
+RAG assistant.jpeg
+reply generator .jpeg
